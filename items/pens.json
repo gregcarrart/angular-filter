@@ -1,0 +1,9 @@
+{
+
+  "name":"pens",
+  "desc":"A writing tool",
+  "common":"yes",
+  "expensive":"no",
+  "stores":"office",
+  "img":"img/pens.jpg"
+}

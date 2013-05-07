@@ -1,0 +1,9 @@
+{
+
+  "name":"phone",
+  "desc":"A communication device",
+  "common":"yes",
+  "expensive":"yes",
+  "stores":"electronic",
+  "img":"img/phone.png"
+}

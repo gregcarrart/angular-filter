@@ -1,0 +1,9 @@
+{
+
+  "name":"water bottle",
+  "desc":"A container that holds water",
+  "common":"yes",
+  "expensive":"no",
+  "stores":"most",
+  "img":"img/water-bottle.jpg"
+}

@@ -1,0 +1,9 @@
+{
+
+  "name":"monitor",
+  "desc":"A device that allows you to see what's on your computer",
+  "common":"yes",
+  "expensive":"yes",
+  "stores":"electronic",
+  "img":"img/monitor.jpg"
+}

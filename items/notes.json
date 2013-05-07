@@ -1,0 +1,9 @@
+{
+
+  "name":"notes",
+  "desc":"A tool for writing thoughts",
+  "common":"yes",
+  "expensive":"no",
+  "stores":"office",
+  "img":"img/notes.png"
+}

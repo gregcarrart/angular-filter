@@ -1,0 +1,9 @@
+{
+
+  "name":"computer",
+  "desc":"An advanced calculator",
+  "common":"yes",
+  "expensive":"yes",
+  "stores":"electronic",
+  "img":"img/computer.jpg"
+}

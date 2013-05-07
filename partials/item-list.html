@@ -1,0 +1,19 @@
+<h1>Desk Items</h1>
+
+<p>Super simple JSON data list. Try typing an item in the search field to see filter in action. Sort by most recent or alphabetical. Each item has it's own page based on a single page template, with individual JSON data.</p>
+
+<p>Search: <input ng-model="search"></p>
+<p>Sort: <select ng-model="sortProp">
+	<option value="name">Alphabetical</option>
+	<option value="age">Newest</option>
+</select>
+</p>
+
+<ul>
+
+	<li ng-repeat = "item in items | filter:search | orderBy:sortProp" class="item-list">
+		<a href="#/items/{{item.id}}" target="_blank">{{item.name}}</a>
+		<p>{{item.desc}}</p>
+	</li>
+
+</ul>

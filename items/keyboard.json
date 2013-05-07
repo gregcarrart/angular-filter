@@ -1,0 +1,9 @@
+{
+
+  "name":"keyboard",
+  "desc":"How you communicate with your computer",
+  "common":"yes",
+  "expensive":"no",
+  "stores":"electronic",
+  "img":"img/keyboard.jpg"
+}

@@ -1,0 +1,9 @@
+{
+
+  "name":"calendar",
+  "desc":"How to tell what day it is",
+  "common":"yes",
+  "expensive":"no",
+  "stores":"office",
+  "img":"img/calendar.jpg"
+}

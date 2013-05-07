@@ -1,0 +1,9 @@
+{
+
+  "name":"speakers",
+  "desc":"A device for amplifying sound",
+  "common":"yes",
+  "expensive":"no",
+  "stores":"electronic",
+  "img":"img/speakers.jpg"
+}

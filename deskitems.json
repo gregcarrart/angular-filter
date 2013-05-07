@@ -1,0 +1,16 @@
+{
+	"items": [
+		{ "name":"water bottle", "id":"water-bottle", "age":0, "desc":"A container that holds water" }, 
+		{ "name":"phone", "id":"phone", "age":1, "desc":"A communication device" }, 
+		{ "name":"speakers", "id":"speakers", "age":2, "desc":"A device for amplifying sound" },
+		{ "name":"toys", "id":"toys", "age":3, "desc":"Things you play with" }, 
+		{ "name":"monitor", "id":"monitor", "age":4, "desc":"A device that allows you to see what's on your computer" }, 
+		{ "name":"computer", "id":"computer", "age":5, "desc":"An advanced calculator" },
+		{ "name":"keyboard", "id":"keyboard", "age":6, "desc":"How you communicate with your computer"}, 
+		{ "name":"mouse", "id":"mouse", "age":7, "desc":"A device that allows you to click" }, 
+		{ "name":"pens", "id":"pens", "age":8, "desc":"A writing tool" },
+		{ "name":"calendar", "id":"calendar", "age":9, "desc":"How to tell what day it is" }, 
+		{ "name":"notes", "id":"notes", "age":10, "desc":"A tool for writing thoughts" }, 
+		{ "name":"headphones", "id":"headphones", "age":11, "desc":"Private listening device" }
+	]
+}

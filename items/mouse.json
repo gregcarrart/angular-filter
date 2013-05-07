@@ -1,0 +1,9 @@
+{
+
+  "name":"mouse",
+  "desc":"A device that allows you to click",
+  "common":"yes",
+  "expensive":"no",
+  "stores":"electronic",
+  "img":"img/mouse.jpg"
+}
